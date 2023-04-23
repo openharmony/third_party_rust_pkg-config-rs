@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "pkg-config",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.3.26",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/rust-lang/pkg-config-rs",
+    "Description": "A library to run the pkg-config system tool at build time in order to be used in Cargo build scripts."
+  }
+]
